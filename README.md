@@ -5,6 +5,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict futu
 
 ## 📊 Dataset
 - Source: Yahoo Finance (e.g., Apple Inc. - AAPL)
+- apple stocks.csv(used dataset in the model)
 - Features: Open, High, Low, Close, Adj clode,Volume
 
 ## 🧠 Model
